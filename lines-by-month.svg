@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="200" viewBox="0 0 500 200" xmlns="http://www.w3.org/2000/svg">
+  <title>grokify&apos;s Net Lines by Month</title>
+  <style>
+    .chart-title { font: 600 14px 'Segoe UI', Ubuntu, sans-serif; fill: #2f80ed; }
+    .axis-label { font: 400 10px 'Segoe UI', Ubuntu, sans-serif; fill: #434d58; }
+    .bar-positive { fill: #2ea043; }
+    .bar-negative { fill: #da3633; }
+    .grid-line { stroke: #e4e2e2; stroke-width: 0.5; stroke-dasharray: 2,2; }
+    .axis-line { stroke: #434d58; stroke-width: 1; }
+  </style>
+  <rect x="0" y="0" width="500" height="200" fill="#fffefe" rx="4"/>
+  <rect x="0.5" y="0.5" width="499" height="199" fill="none" stroke="#e4e2e2" rx="4"/>
+  <text class="chart-title" x="250" y="20" text-anchor="middle">grokify&apos;s Net Lines by Month</text>
+  <line class="grid-line" x1="50" y1="30" x2="450" y2="30"/>
+  <line class="grid-line" x1="50" y1="60" x2="450" y2="60"/>
+  <line class="grid-line" x1="50" y1="90" x2="450" y2="90"/>
+  <line class="grid-line" x1="50" y1="120" x2="450" y2="120"/>
+  <line class="grid-line" x1="50" y1="150" x2="450" y2="150"/>
+  <line class="axis-line" x1="50" y1="150" x2="450" y2="150"/>
+  <rect class="bar-positive" x="50" y="30.000000000000004" width="400" height="120" rx="2"/>
+  <text class="axis-label" x="250" y="192" text-anchor="middle">Jan</text>
+  <text class="axis-label" x="45" y="40" text-anchor="end">+443.7k</text>
+  <text class="axis-label" x="45" y="154" text-anchor="end">0</text>
+</svg>

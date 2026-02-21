@@ -21,6 +21,10 @@ Fri  ░
 
 ![GitHub Stats](./stats.svg)
 
+### Net Lines by Month
+
+![Net Lines by Month](./lines-by-month.svg)
+
 <details>
 <summary>Detailed Stats (Jan 1, 2026 to Jan 31, 2026)</summary>
 
