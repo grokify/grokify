@@ -19,7 +19,10 @@ Fri  ░
 
 ## GitHub Stats
 
-_Jan 1, 2026 to Jan 31, 2026_
+![GitHub Stats](./stats.svg)
+
+<details>
+<summary>Detailed Stats (Jan 1, 2026 to Jan 31, 2026)</summary>
 
 | Metric | Value |
 |--------|-------|
@@ -30,6 +33,8 @@ _Jan 1, 2026 to Jan 31, 2026_
 | Lines Added | +738.1k |
 | Lines Deleted | -294.4k |
 | Longest Streak | 1 days |
+
+</details>
 
 
 ## Top Repositories
