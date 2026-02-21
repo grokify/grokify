@@ -19,9 +19,11 @@ Fri  ░
 
 ## GitHub Stats
 
+_Jan 1, 2026 to Jan 31, 2026_
+
 | Metric | Value |
 |--------|-------|
-| Commits (past year) | 1.1k |
+| Commits | 1.1k |
 | Pull Requests | 5 |
 | Issues | 0 |
 | Code Reviews | 0 |
