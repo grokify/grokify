@@ -38,6 +38,9 @@
 ## Patents
 
 - 📜 **[Patents](https://grokify.github.io/patents/)**
+    - **[Methods and systems for associating a team with a meeting](https://patents.google.com/patent/US20220207488A1/en)**
+    - **[Collaborative communications environment and automatic account creation thereof](https://patents.google.com/patent/US10805101B1/en)**
+    - **[Method and apparatus for cryptographic key storage wherein key servers are authenticated by possession and secure distribution of stored keys](https://patents.google.com/patent/US7711122B2/en)**
 
 ## Reading
 
