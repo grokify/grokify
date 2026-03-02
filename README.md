@@ -34,3 +34,11 @@
 - DevOps
     - 🎼 **[PipelineConductor](https://github.com/grokify/pipelineconductor)** - Multi-repo CI/CD pipeline orchestration with Cedar policies
     - 📦 **[VersionConductor](https://github.com/grokify/versionconductor)** - Automated dependency PR management and maintenance releases
+
+## Patents
+
+- 📜 **[Patents](https://grokify.github.io/patents/)**
+
+## Reading
+
+- 🌍 **[Planet AI](https://grokify.github.io/planet-ai)** - Currated blogs I follow on AI adoption
