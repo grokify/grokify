@@ -1,0 +1,37 @@
+=== Profile: grokify ===
+Period: 2026-01-01 to 2026-03-31
+
+Contributions (GitHub official):
+  Commits:       3909
+  Pull Requests: 21
+  Issues:        1
+  Reviews:       0
+  Repos Created: 41
+
+Code Changes (from default branch history):
+  Commits:   3561
+  Additions: +1696636
+  Deletions: -689678
+  Net:       +1006958
+
+Repositories Contributed To: 124
+
+Activity:
+  Days with contributions: 3
+  Longest streak:          1 days
+  Current streak:          1 days
+
+Top Repositories by Commits:
+  1. plexusone/w3pilot: 192 commits (+67291/-12297)
+  2. grokify/structured-changelog: 125 commits (+66824/-42237)
+  3. plexusone/assistantkit: 118 commits (+45092/-2646)
+  4. grokify/videoascode: 114 commits (+29368/-3058)
+  5. grokify/structured-plan: 111 commits (+57567/-6591)
+
+Monthly Activity (from default branch history):
+  March 2026:
+    - Created 1486 commits in 116 repositories
+  February 2026:
+    - Created 984 commits in 113 repositories
+  January 2026:
+    - Created 1091 commits in 113 repositories
