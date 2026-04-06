@@ -44,4 +44,5 @@
 
 ## Reading
 
-- 🌍 **[Planet AI](https://grokify.github.io/planet-ai)** - Currated blogs I follow on AI adoption
+- 🌍 **[Planet AI](https://grokify.github.io/planet-ai)** - AI and development blog aggregator with curated priority articles
+- 📊 **[Frontier Pulse](https://grokify.github.io/frontierpulse)** - Hacker News discussion summaries with persona modeling and sentiment analysis
