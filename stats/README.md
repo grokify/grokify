@@ -11,7 +11,7 @@ Public repository contribution statistics.
 | Additions | 1,696,636 |
 | Deletions | 689,678 |
 | Net Additions | 1,006,958 |
-| Repos Contributed | 249 (unique monthly) |
+| Repos Contributed | 124 |
 
 ## Monthly Breakdown
 

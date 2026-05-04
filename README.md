@@ -13,6 +13,8 @@
 
 ## Current Projects
 
+**[PlexusOne.dev](https://plexusone.dev)**
+
 - Apps & Agents
     - 🤖 **[OmniAgent](https://github.com/plexusone/omniagent)** - Personal AI assistant routing messages across communication channels
     - 🎬 **[VideoAsCode](https://github.com/grokify/videoascode)** - Convert Marp presentations with voiceovers to video files
@@ -32,8 +34,8 @@
     - 👁️ **[OmniObserve](https://github.com/plexusone/omniobserve)** - Unified Go library for LLM and ML observability
     - 🔍 **[OmniSerp](https://github.com/plexusone/omniserp)** - Multi-search engine abstraction with MCP server
 - DevOps
-    - 🎼 **[PipelineConductor](https://github.com/grokify/pipelineconductor)** - Multi-repo CI/CD pipeline orchestration with Cedar policies
-    - 📦 **[VersionConductor](https://github.com/grokify/versionconductor)** - Automated dependency PR management and maintenance releases
+    - 🎼 **[PipelineConductor](https://github.com/plexusone/pipelineconductor)** - Multi-repo CI/CD pipeline orchestration with Cedar policies
+    - 📦 **[VersionConductor](https://github.com/plexusone/versionconductor)** - Automated dependency PR management and maintenance releases
 
 ## Patents
 
