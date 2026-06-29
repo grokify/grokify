@@ -7,7 +7,7 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-📍 **SF Bay Area** | 🤖 **Polyagentmorous builder** | 🚀 **Ex-RingCentral Developer Platform Leader**
+📍 **SF Bay Area** | 🤖 **Product Builder** | 🚀 **Ex-RingCentral Developer Platform Leader**
 
 > Deep in vibe-coding mode - building with AI-powered agent and platform tools at ludicrous speed.
 
