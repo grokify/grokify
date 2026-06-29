@@ -13,9 +13,9 @@
 
 ## Websites
 
-- **[PlexusOne.dev](https://plexusone.dev)**
-- **[AIStandards.io](https://aistandards.io)**
-- **[ProductBuildersHQ.com](https://productbuildershq.com)**
+- **[PlexusOne.dev](https://plexusone.dev)** - Multi-agent AI systems and developer tools
+- **[AIStandards.io](https://aistandards.io)** - Catalog of internet standards for AI agents
+- **[ProductBuildersHQ.com](https://productbuildershq.com)** - Frameworks and case studies for AI-assisted software delivery
 
 ## Current Projects
 
@@ -28,10 +28,11 @@
     - 📊 **[Stats Agent Team](https://github.com/plexusone/agent-team-stats)** - Multi-agent system for finding and verifying statistics
 - Specifications
     - 📋 **[Multi-Agent Spec](https://github.com/plexusone/multi-agent-spec)** - Platform-agnostic specification for multi-agent AI systems
+    - 📐 **[API Style Spec](https://github.com/plexusone/api-style-spec)** - Machine-readable API style guidelines for consistent API design
     - 🎨 **[Design System Spec](https://github.com/plexusone/design-system-spec)** - Machine-readable specification for design systems as code
     - 🛡️ **[Threat Model Spec](https://github.com/grokify/threat-model-spec)** - Security threat modeling diagrams as code with D2 and STIX
 - Frameworks
-    - 🔧 **[CoreForge](https://github.com/grokify/coreforge)** - Go platform module for identity, session, authorization, feature flags
+    - 🔧 **[SystemForge](https://github.com/grokify/systemforge)** - Go platform module for identity, session, authorization, feature flags
 - Libraries
     - 🧠 **[OmniLLM](https://github.com/plexusone/omnillm)** - Unified Go SDK for multiple LLM providers (OpenAI, Claude, Gemini)
     - 🎙️ **[OmniVoice](https://github.com/plexusone/omnivoice)** - Voice pipeline framework with STT/TTS provider abstraction
