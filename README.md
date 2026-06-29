@@ -11,9 +11,13 @@
 
 > Deep in vibe-coding mode - building with AI-powered agent and platform tools at ludicrous speed.
 
-## Current Projects
+## Websites
 
-**[PlexusOne.dev](https://plexusone.dev)**
+- **[PlexusOne.dev](https://plexusone.dev)**
+- **[AIStandards.io](https://aistandards.io)**
+- **[ProductBuildersHQ.com](https://productbuildershq.com)**
+
+## Current Projects
 
 - Apps & Agents
     - 🤖 **[OmniAgent](https://github.com/plexusone/omniagent)** - Personal AI assistant routing messages across communication channels
