@@ -14,7 +14,7 @@
 ## Websites
 
 - **[PlexusOne.dev](https://plexusone.dev)** - Multi-agent AI systems and developer tools
-- **[AIStandards.io](https://aistandards.io)** - Catalog of internet standards for AI agents
+- **[AIStandards.io](https://aistandards.io)** - Catalog of, and SDKs for, internet standards for AI agents
 - **[ProductBuildersHQ.com](https://productbuildershq.com)** - Frameworks and case studies for AI-assisted software delivery
 
 ## Current Projects
