@@ -72,18 +72,21 @@ Public repository contribution statistics.
 - **Commits:** 1,754 across 132 repositories
 - **Releases:** 120
 - **Lines changed:** +1,716,920 / -251,531 (net +1,465,389)
+- **[Full Report](grokify_github_public_2026-06.md)** | [Raw Data](grokify_github_public_2026-06.json)
 
 ### May 2026
 
 - **Commits:** 1,798 across 138 repositories
 - **Releases:** 108
 - **Lines changed:** +1,119,092 / -67,588 (net +1,051,504)
+- **[Full Report](grokify_github_public_2026-05.md)** | [Raw Data](grokify_github_public_2026-05.json)
 
 ### April 2026
 
 - **Commits:** 1,764 across 132 repositories
 - **Releases:** 109
 - **Lines changed:** +564,819 / -57,598 (net +507,221)
+- **[Full Report](grokify_github_public_2026-04.md)** | [Raw Data](grokify_github_public_2026-04.json)
 
 ### March 2026
 
@@ -113,6 +116,12 @@ Statistics generated from GitHub API using [gogithub](https://github.com/grokify
 
 - Visibility: public
 - Include releases: yes
+
+**Monthly reports:**
+
+- [June 2026](grokify_github_public_2026-06.md)
+- [May 2026](grokify_github_public_2026-05.md)
+- [April 2026](grokify_github_public_2026-04.md)
 
 **Raw data files:**
 
